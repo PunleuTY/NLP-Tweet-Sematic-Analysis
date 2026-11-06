@@ -1,0 +1,11 @@
+datasets>=3.0
+pandas>=2.2
+numpy
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13.2
+nltk
+gensim
+emoji
+jupyter
+ipykernel
